@@ -66,11 +66,11 @@ a.toc-backref {
 
 
 /* -- API references begin -- */
-code.descclassname {
+span.descclassname {
   padding: 0;
   background-color: transparent;
 }
-code.descname {
+span.descname {
   font-weight: 700;
   padding: 0;
   background-color: transparent;
