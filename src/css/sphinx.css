@@ -69,11 +69,13 @@ a.toc-backref {
 span.descclassname {
   padding: 0;
   background-color: transparent;
+  color: var(--color-code);
 }
 span.descname {
   font-weight: 700;
   padding: 0;
   background-color: transparent;
+  color: var(--color-code);
 }
 
 dd {
